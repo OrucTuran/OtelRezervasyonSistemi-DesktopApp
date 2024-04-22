@@ -21,6 +21,16 @@ Bu proje, C# programlama dilini kullanarak geliştirilmiş bir otel rezervasyon 
 - **DevExpress:** Kullanıcı arayüzü bileşenlerini sağlamak için kullanılmıştır.
 - **WinForms:** Masaüstü uygulamasının GUI'si oluşturulmuştur.
 
+![AktifRezervasyon](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/050df7df-0382-4739-b6f5-592eeb99783e)
+![AnaForm](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/27404ffe-92a2-454f-8b4f-3c5b05f0dcb7)
+![personelKarti](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/84450451-9255-4ff5-afdb-e0d7fd75c0f4)
+![PersonelList](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/c78f8404-9988-43fe-bee9-b56e87317d2f)
+![raporlama](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/bd42446b-db93-4b3f-949f-1f60ca0c08c7)
+![raporSonuc](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/2dce23d6-c90c-439a-84a8-11b26a0e9a8f)
+![tanimGrafik](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/eec7eefb-a852-4b73-bfbb-72640a339fb6)
+![urunKarti](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/989b676b-f016-4643-badc-ae7748e4583d)
+![Sql](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/8e3fc902-30f6-4a09-abc3-f15e5ca85e1c)
+
 ## Kurulum
 
 1. Bu repo'yu klonlayın: `git clone https://github.com/OrucTuran/OtelRezervasyonSistemi-Desktop.git`
