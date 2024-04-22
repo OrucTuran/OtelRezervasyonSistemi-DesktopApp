@@ -190,7 +190,7 @@ namespace OtelYeniProje.Formlar.AnaForm
             this.groupControl5.Name = "groupControl5";
             this.groupControl5.Size = new System.Drawing.Size(409, 194);
             this.groupControl5.TabIndex = 4;
-            this.groupControl5.Text = "Grafik 1";
+            this.groupControl5.Text = "Ürün - Stok";
             // 
             // chartControlGrafik1
             // 
