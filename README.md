@@ -21,6 +21,7 @@ Bu proje, C# programlama dilini kullanarak geliştirilmiş bir otel rezervasyon 
 - **DevExpress:** Kullanıcı arayüzü bileşenlerini sağlamak için kullanılmıştır.
 - **WinForms:** Masaüstü uygulamasının GUI'si oluşturulmuştur.
 
+![giris](https://github.com/OrucTuran/OtelRezervasyonSistemi-DesktopApp/assets/35014993/369744da-4f05-4889-aa9f-278eafae711c)
 ![AktifRezervasyon](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/050df7df-0382-4739-b6f5-592eeb99783e)
 ![AnaForm](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/27404ffe-92a2-454f-8b4f-3c5b05f0dcb7)
 ![personelKarti](https://github.com/OrucTuran/OtelRezervasyonSistemi-Web/assets/35014993/84450451-9255-4ff5-afdb-e0d7fd75c0f4)
